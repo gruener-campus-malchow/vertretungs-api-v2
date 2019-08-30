@@ -1,2 +1,8 @@
 # vertretungs-api-v2
-Eine neue Version der Vertretungs-API
+
+Die Vertretungs-API ist etwas in die Jahre gekommen und war schon immer etwas unpraktisch. Mit diesem Projekt soll eine neue, verbesserte Version entstehen.
+
+## Ziele
+
+- Daten direkt aus DSBmobile holen
+- Pläne für die nächsten Tage ausgeben
