@@ -7,3 +7,10 @@ Die Vertretungs-API ist etwas in die Jahre gekommen und war schon immer etwas un
 - Daten direkt aus DSBmobile holen
 - Pläne für die nächsten Tage ausgeben
 - Filtern nach Klasse
+
+## Abhängigkeiten
+
+    requests
+    pydsb
+    pyuntis
+    sanic
